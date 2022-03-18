@@ -1,0 +1,36 @@
+{
+    "transactions": [
+      {
+        "id": "1",
+        "category": { "title": "Venda" },
+        "title": "Desenvolvimento de site",
+        "type": "income",
+        "value": 12000,
+        "created_at": "2020-04-13T00:00:00"
+      },
+      {
+        "id": "2",
+        "category": { "title": "Alimentação" },
+        "title": "Hamburger",
+        "type": "outcome",
+        "value": 59,
+        "created_at": "2020-04-10T00:00:00"
+      },
+      {
+        "id": "3",
+        "category": { "title": "Casa" },
+        "title": "Aluguel do apartamento",
+        "type": "outcome",
+        "value": 1200,
+        "created_at": "2020-03-27T00:00:00"
+      },
+      {
+        "id": "4",
+        "category": { "title": "Venda" },
+        "title": "Computador",
+        "type": "income",
+        "value": 5400,
+        "created_at": "2020-03-15T00:00:00"
+      }
+    ]
+  }
