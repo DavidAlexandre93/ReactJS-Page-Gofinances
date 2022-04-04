@@ -46,7 +46,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+> Link do deploy da aplicação. 
 
 ... 
 
@@ -65,7 +65,7 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https ou ssh do projeto
 ```
 
 ... 
@@ -92,7 +92,7 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 
 |name|email|password|token|avatar|
 | -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
+|David Alexandre|davidalexandrefernandes@outlook.com|davidalexandre93|true|https://avatars.githubusercontent.com/u/38826514?s=400&u=8c88ded33bb7f95ac76772a892ba2ffebc6bb120&v=4|
 
 ... 
 
@@ -129,7 +129,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
+| [<img src="https://avatars.githubusercontent.com/u/38826514?s=400&u=8c88ded33bb7f95ac76772a892ba2ffebc6bb120&v=4" width=115><br><sub>David Alexandre</sub>](https://github.com/DavidAlexandre93/) |  
 | :---: | :---: | :---: 
 
 ## Licença 
